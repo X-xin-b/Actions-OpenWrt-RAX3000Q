@@ -11,5 +11,5 @@
 #
 # Uncomment a feed source
 # sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
-
-
+#添加luci-app-drcom-cpp-client
+echo "src-git drcom https://github.com/azurstar/luci-app-drcom-cpp-client.git" >> feeds.conf.default
