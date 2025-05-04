@@ -12,4 +12,5 @@
 # Uncomment a feed source
 # sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 #添加luci-app-drcom-cpp-client
+echo "src-git rkp-ipid  https://github.com/CHN-beta/rkp-ipid" >> feeds.conf.default
 echo "src-git taskplan  https://github.com/X-xin-b/luci-app-autologin" >> feeds.conf.default
