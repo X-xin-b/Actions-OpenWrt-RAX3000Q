@@ -12,6 +12,6 @@
 # Uncomment a feed source
 # sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
-echo "src-git luci-app-ua2f  https://github.com/lucikap/luci-app-ua2f" >> feeds.conf.default
+#echo "src-git luci-app-ua2f  https://github.com/lucikap/luci-app-ua2f" >> feeds.conf.default
 #echo "src-git rkp-ipid https://github.com/CHN-beta/rkp-ipid.git" >> feeds.conf.default
 #echo "src-git taskplan  https://github.com/X-xin-b/luci-app-autologin" >> feeds.conf.default
