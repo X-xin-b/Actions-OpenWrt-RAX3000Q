@@ -9,3 +9,4 @@
 # File name: diy-part2.sh
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
+git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
